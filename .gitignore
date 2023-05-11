@@ -1,0 +1,10 @@
+# Node.js
+/node_modules
+
+# Backend
+/server/node_modules
+/server/.env
+
+# Frontend
+/public/node_modules
+/public/.env
